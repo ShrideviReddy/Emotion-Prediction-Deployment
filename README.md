@@ -10,7 +10,7 @@
 * Data source: https://www.kaggle.com/ahmedmoorsy/facial-expression
 
 ## Technology used:
-* Python, Keras , & Heroku
+* Python, Keras , Flask,HTML, CSS & Heroku
 
 
 ## Sample Output:
